@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\taxually-homework\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj": {}
+    "c:\\src\\taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj": {}
   },
   "projects": {
-    "C:\\src\\taxually-homework\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj": {
+    "c:\\src\\taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\taxually-homework\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj",
+        "projectUniqueName": "c:\\src\\taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj",
         "projectName": "Taxually.TechnicalTest",
-        "projectPath": "C:\\src\\taxually-homework\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj",
+        "projectPath": "c:\\src\\taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj",
         "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\taxually-homework\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\obj\\",
+        "outputPath": "c:\\src\\taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

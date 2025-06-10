@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Taxually.TechnicalTest.props" />
+</Project>
