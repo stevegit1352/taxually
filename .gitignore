@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Taxually.TechnicalTest/Taxually.TechnicalTest/bin/Debug/net6.0
+/Taxually.TechnicalTest/Taxually.TechnicalTest.Test/bin/Debug/net8.0
+/Taxually.TechnicalTest/Taxually.TechnicalTest.Test/obj
+/Taxually.TechnicalTest/Taxually.TechnicalTest/obj/project.assets.json
+/Taxually.TechnicalTest/Taxually.TechnicalTest/obj/Taxually.TechnicalTest.csproj.nuget.dgspec.json
+/Taxually.TechnicalTest/Taxually.TechnicalTest/obj/Taxually.TechnicalTest.csproj.nuget.g.props
